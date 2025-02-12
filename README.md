@@ -43,7 +43,7 @@ cd list-of-my-friend-crushes
 
 Install dependencies:
 
-npm install
+npm install.
 
 Start the backend server:
 
